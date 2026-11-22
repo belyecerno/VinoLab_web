@@ -1,0 +1,4 @@
+models/wine_quality_model.joblib
+saved_samples.csv
+__pycache__/
+.venv/
